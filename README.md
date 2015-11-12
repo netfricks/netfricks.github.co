@@ -1,2 +1,2 @@
-# netfricks.github.co
-netfricks.github.co
+# netfricks.github.io
+netfricks.github.io
